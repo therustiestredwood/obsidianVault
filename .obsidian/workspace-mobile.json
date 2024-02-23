@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "2024-02-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Welcome.md",
+            "file": "2024-02-22.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Welcome.md",
+            "file": "2024-02-22.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Welcome.md"
+            "file": "2024-02-22.md"
           }
         }
       }
@@ -140,14 +140,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a57b47edc7597fd",
+  "active": "04043818e464ec18",
   "lastOpenFiles": [
+    "Welcome.md",
     "2024-02-22.md",
     "Untitled",
     "Test 2.md",
     "iPhone test note.md",
     "Test Note.md",
-    "Welcome.md",
     "my-notes"
   ]
 }
